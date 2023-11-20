@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+img{
+  width: 300px;
+  margin: 5px;
+  border-radius: 12px; 
+}
+.body{
+   background-image:url(54656.jpeg) ;
+}
+h1{
+ padding: 10px 15px 15px;
+  margin: 5px 0 20px 10px;
+  color:blue;
+  font-size: 60px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.box{
+ background-color: orange;
+  color: yellow;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.video{
+  margin-top: 50px;
+  text-align: center;
+}
+body{
+  background-color: gold;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.center{
+  text-align: center;
+}
